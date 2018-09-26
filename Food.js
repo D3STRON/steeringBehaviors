@@ -3,7 +3,7 @@ class Food{
     {
         this.y = random(10,height -10)
         this.x = random(10, width - 10)
-        this.rad = 10
+        this.rad = 12
     }
     show()
     {
